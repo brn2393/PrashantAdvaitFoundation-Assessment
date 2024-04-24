@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrashantAdvait</string>
+    <string name="error_loading_image">Failed to load image</string>
+</resources>
