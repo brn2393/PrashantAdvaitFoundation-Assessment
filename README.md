@@ -12,7 +12,7 @@ Follow the steps below to set up and run the project:
     - Open your terminal (command prompt or terminal window) and navigate to the desired location where you want to clone the repository.
     - Run the following command to clone the repository:
         ```shell
-        git clone [<repository-url>](https://github.com/brn2393/PrashantAdvaitFoundation-Assessment.git)
+        git clone https://github.com/brn2393/PrashantAdvaitFoundation-Assessment.git
         ```
 
 2. **Open the Project in Android Studio**
